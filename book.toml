@@ -11,6 +11,9 @@ after = ["links"]
 output = "htmlAndMathml"
 pre-render = true
 
+[output.html]
+git-repository-url = "https://github.com/thudep/c-lang-homepage"
+
 [output.html.search]
 boost-hierarchy = 2
 boost-paragraph = 1
