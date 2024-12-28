@@ -1,0 +1,4 @@
+assets = {directory = "./book", binding = "ASSETS", not_found_handling = "404-page"}
+compatibility_date = "2024-12-28"
+name = "c-lang"
+workers_dev = false
