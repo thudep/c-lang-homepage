@@ -7,3 +7,6 @@
 - [安装 C 环境](environment.md)
 
 # 提问与反馈
+
+- [如何提问](question.md)
+- [反馈问题](feedback.md)
