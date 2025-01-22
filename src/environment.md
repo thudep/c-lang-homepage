@@ -8,6 +8,31 @@
 
 > **注意**: DevC++ 安装方便, 然而开发体验一般.
 
+### 安装与设置
+
+文件名为 `Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe`, 访问 [sourceforge](https://sourceforge.net/projects/orwelldevcpp/) 上点击 Download 即可下载, 或者可以通过科协文件服务器提供的[镜像](https://cfile.thudep.com:6443/mirror/)下载.
+
+下载后双击下载文件, 依次点击 `OK`, `I agree`, `Next`, `Install` 即可安装.
+
+安装后点击 `Finish` (一般会自动打开 Dev-c++, 没有的话自己打开桌面的快捷方式), 随后选择 `简体中文`, 点击 `Next`, `Next`, `OK` 即可完成设置.
+
+### 使用
+
+在打开的程序左上角点击 `文件`, `新建`, `源代码`.
+
+将以下代码复制到占较大面积的白色输入框中:
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+按键盘上的 <F9>, 选择一个文件夹保存源代码, 修改文件名后按下 `保存`, 再按下键盘上的 <F10> 即可运行.
+
 ## 安装 msys2 配置本地 C 环境并使用 VSCode 编辑器
 
 ## 配置远程服务器 C 环境并使用 VSCode 编辑器
