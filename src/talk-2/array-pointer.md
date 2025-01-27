@@ -1,6 +1,6 @@
 # 数组与指针
 
-> 录制文件: [record/talk-1.mp4](https://cfile.thudep.com:6443/record/talk-1.mp4)
+> 录制文件: [record/talk-2.mp4](https://cfile.thudep.com:6443/record/talk-2.mp4)
 
 ## 数组
 
