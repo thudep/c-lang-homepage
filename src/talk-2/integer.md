@@ -1,5 +1,7 @@
 # 整数的表示与处理
 
+> 录制文件: [record/talk-1.mp4](https://cfile.thudep.com:6443/record/talk-1.mp4)
+
 这一节简单地讨论整数的表示与处理. [Programmers 64-bit Calc](https://calc.penjee.com/) 是一个很好的在线工具, 可以用来查看有符号整数与无符号整数的二进制表示, 以及它们的位运算.
 
 ## 无符号整数
@@ -27,7 +29,6 @@ $$B2U_w (\vec{x})\coloneqq \sum_{i=0}^{w-1}x_i 2^i$$
 $$B2T_w (\vec{x})\coloneqq -x_{w-1}2^{w-1}+\sum_{i=0}^{w-2}x_i 2^i$$
 
 例如, $B2T_4(1101)=-8+4+1=-3$.
-
 
 ## 大小端
 
@@ -80,6 +81,7 @@ int main() {
 > **例子**
 >
 > 三目运算符 `?:` 可以用来简化条件判断. 例如, 下面的代码用来计算两个数的最小值, 并在最小值为负数时返回 `0`.
+>
 > ```c
 > int non_negative_min(int x, int y) {
 >     int is_negative = x < 0 || y < 0;
@@ -117,10 +119,10 @@ int main() {
 > **思考题**
 >
 > 下面这个 C 函数的功能是什么?
+>
 > ```c
 >  int f(int x) {
 >      int a = x | (~x + 1);
 >      return (a >> 31) + 1;
 >  }
 > ```
-

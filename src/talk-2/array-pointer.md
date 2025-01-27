@@ -1,5 +1,7 @@
 # 数组与指针
 
+> 录制文件: [record/talk-1.mp4](https://cfile.thudep.com:6443/record/talk-1.mp4)
+
 ## 数组
 
 数组是多数编程语言中的基本数据类型之一, 用来连续存储相同类型的数据. 数组的元素可以通过下标来访问, 下标从 `0` 开始.
@@ -44,7 +46,6 @@ printf("%d\n", *(p + 1)); // 输出 2
 ```
 
 > 通过下标访问数组元素和通过指针访问数组元素是等价的. 可以查看 [godbolt](https://godbolt.org/) 来查看编译器生成的汇编代码.
-
 
 指针还可以指向指针, 例如, `int **` 表示指向 `int *` 类型的指针.
 
@@ -103,7 +104,7 @@ int main() {
 
     int *q = (int *)calloc(5, sizeof(int)); // 并初始化为 0
     for (int i = 0; i < 5; i++) {
-        printf("%d\n", q[i]); 
+        printf("%d\n", q[i]);
     }
     free(q);
 }
