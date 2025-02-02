@@ -6,6 +6,7 @@
   - [编程语言介绍](talk-1/language.md)
   - [整数的表示与处理](talk-2/integer.md)
   - [数组与指针](talk-2/array-pointer.md)
+  - [常见问题解答](faq.md)
 - 提问与反馈
   - [如何提问](question.md)
   - [反馈问题](feedback.md)
@@ -23,7 +24,7 @@
 选手在初赛中一共需要至少完成 7 道题目, 通过后才能进入决赛.
 
 > 默认的测评环境是 Ubuntu Linux 20.04 LTS x64.
-> 
+>
 > C 的编译器是 gcc 9.3.0, 编译命令: `gcc code.c -o code -lm -O2 -DONLINE_JUDGE`.
 >
 > C++ 的编译器是 g++ 9.3.0, 编译命令: `g++ code.cpp -o code -lm -O2 -DONLINE_JUDGE`. 如果选择 C++11 会在编译命令后面添加 `-std=c++11`.
