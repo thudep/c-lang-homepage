@@ -8,6 +8,7 @@
 - [编程语言介绍](talk-1/language.md)
 - [整数的表示与处理](talk-2/integer.md)
 - [数组与指针](talk-2/array-pointer.md)
+- [C++面向对象编程与数据结构简介](DSACPP.md)
 - [常见问题解答](faq.md)
 
 # 提问与反馈
