@@ -943,9 +943,5 @@ template <typename K, typename V> V* HashTable<K, V>::Get(K k){
     Rank r = Probe4Hit(k);
     if(ht[r]) return &(ht[r]->value);
     else return NULL;
-}V> V* HashTable<K, V>::Get(K k){
-    Rank r = Probe4Hit(k);
-    if(ht[r]) return &(ht[r]->value);
-    else return NULL;
 }
 ```
