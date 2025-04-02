@@ -10,7 +10,7 @@
 
 ### 安装与设置
 
-文件名为 `Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe`, 访问 [sourceforge](https://sourceforge.net/projects/orwelldevcpp/) 上点击 Download 即可下载, 或者可以通过科协文件服务器提供的[镜像](https://cfile.thudep.com:6443/mirror/)下载.
+文件名为 `Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe`, 访问 [sourceforge](https://sourceforge.net/projects/orwelldevcpp/) 上点击 Download 即可下载, 或者可以通过科协文件服务器提供的[镜像](https://cfile.thudep.com:7100/mirror/)下载.
 
 下载后双击下载文件, 依次点击 `OK`, `I agree`, `Next`, `Install` 即可安装.
 
