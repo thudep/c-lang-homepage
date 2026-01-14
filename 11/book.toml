@@ -1,0 +1,24 @@
+[book]
+authors = ["Qhy23"]
+description = "新生 C 语言大赛赛事信息平台"
+language = "zh-CN"
+multilingual = false
+src = "./src"
+title = "新生 C 语言大赛"
+
+[preprocessor.katex]
+after = ["links"]
+output = "htmlAndMathml"
+pre-render = true
+
+[output.html]
+git-repository-url = "https://github.com/thudep/c-lang-homepage"
+
+[output.html.search]
+boost-hierarchy = 2
+boost-paragraph = 1
+boost-title = 2
+expand = true
+heading-split-level = 2
+limit-results = 20
+use-boolean-and = true
