@@ -1,6 +1,6 @@
 # 编程语言介绍
 
-> 录制文件: [record/talk-1.mp4](https://cfile.thudep.com:7100/record/talk-1.mp4)
+> 录制文件: [record/talk-1.mp4](https://cfile.thudep.com:7100/10/record/talk-1.mp4)
 
 编程语言(programming language), 是用来定义计算机程序的形式语言. 它是一种被标准化的交流技巧, 用来向计算机发出指令, 能够让程序员准确地定义计算机所需要使用数据, 并精确地定义在不同情况下所应当采取的行动. [^1]
 

@@ -1,6 +1,6 @@
 # 整数的表示与处理
 
-> 录制文件: [record/talk-2.mp4](https://cfile.thudep.com:7100/record/talk-2.mp4)
+> 录制文件: [record/talk-2.mp4](https://cfile.thudep.com:7100/10/record/talk-2.mp4)
 
 这一节简单地讨论整数的表示与处理. [Programmers 64-bit Calc](https://calc.penjee.com/) 是一个很好的在线工具, 可以用来查看有符号整数与无符号整数的二进制表示, 以及它们的位运算.
 
