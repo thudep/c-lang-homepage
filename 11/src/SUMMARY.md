@@ -7,3 +7,5 @@
 [赛程安排](./docs/schedule.md)
 
 ## 赛事培训
+
+[第零次培训](./docs/environment.md)
