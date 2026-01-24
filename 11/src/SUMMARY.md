@@ -5,6 +5,7 @@
 # 赛事信息
 
 - [赛程安排](./docs/schedule.md)
+- [赛事规则](./docs/rules.md)
 
 # 赛事培训
 
