@@ -10,3 +10,4 @@
   - [赛事规则](./docs/rules.md)
 - 赛事培训
   - [第零次培训](./docs/environment.md)
+  - [第一次培训](./docs/talk1.md)
