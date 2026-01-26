@@ -12,6 +12,7 @@ output = "htmlAndMathml"
 pre-render = true
 
 [output.html]
+additional-css = ["css/fontsize.css"]
 git-repository-url = "https://github.com/thudep/c-lang-homepage"
 
 [output.html.search]
