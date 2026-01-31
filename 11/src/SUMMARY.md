@@ -12,3 +12,4 @@
 - [第零次培训](./docs/environment.md)
 - [第一次培训](./docs/talk1.md)
 - [第二次培训](./docs/talk2.md)
+- [第三次培训](./docs/talk3.md)
