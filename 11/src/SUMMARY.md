@@ -13,3 +13,4 @@
 - [第一次培训](./docs/talk1.md)
 - [第二次培训](./docs/talk2.md)
 - [第三次培训](./docs/talk3.md)
+- [决赛培训](./docs/final.md)
